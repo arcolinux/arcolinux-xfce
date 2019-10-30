@@ -89,8 +89,8 @@
       <property name="&lt;Primary&gt;&lt;Alt&gt;Delete" type="string" value="xfce4-session-logout"/>
       <property name="&lt;Primary&gt;&lt;Alt&gt;p" type="string" value="pamac-manager"/>
       <property name="&lt;Super&gt;c" type="string" value="conky-toggle"/>
-      <property name="&lt;Primary&gt;&lt;Alt&gt;Page_Up" type="string" value="am-rotate-conky -n"/>
-      <property name="&lt;Primary&gt;&lt;Alt&gt;Page_Down" type="string" value="am-rotate-conky -p"/>
+      <property name="&lt;Primary&gt;&lt;Alt&gt;Page_Up" type="string" value="conky-rotate-n"/>
+      <property name="&lt;Primary&gt;&lt;Alt&gt;Page_Down" type="string" value="conky-rotate -p"/>
       <property name="F12" type="string" value="xfce4-terminal --drop-down"/>
     </property>
   </property>
