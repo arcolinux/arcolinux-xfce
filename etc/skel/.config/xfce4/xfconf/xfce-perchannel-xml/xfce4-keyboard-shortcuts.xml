@@ -12,11 +12,13 @@
       </property>
       <property name="&lt;Primary&gt;&lt;Alt&gt;Delete" type="empty"/>
       <property name="&lt;Primary&gt;&lt;Alt&gt;l" type="empty"/>
+      <property name="&lt;Primary&gt;&lt;Alt&gt;t" type="empty"/>
       <property name="XF86Display" type="empty"/>
       <property name="&lt;Super&gt;p" type="empty"/>
       <property name="&lt;Primary&gt;Escape" type="empty"/>
       <property name="XF86WWW" type="empty"/>
       <property name="XF86Mail" type="empty"/>
+      <property name="Print" type="empty"/>
     </property>
     <property name="custom" type="empty">
       <property name="&lt;Alt&gt;F1" type="string" value=""/>
@@ -92,6 +94,7 @@
       <property name="&lt;Primary&gt;&lt;Alt&gt;Page_Up" type="string" value="conky-rotate -n"/>
       <property name="&lt;Primary&gt;&lt;Alt&gt;Page_Down" type="string" value="conky-rotate -p"/>
       <property name="F12" type="string" value="xfce4-terminal --drop-down"/>
+      <property name="&lt;Super&gt;k" type="string" value="slimlock"/>
     </property>
   </property>
   <property name="xfwm4" type="empty">
