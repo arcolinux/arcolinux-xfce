@@ -71,6 +71,17 @@
         <value type="string" value="dropbox"/>
       </property>
       <property name="show-frame" type="bool" value="false"/>
+      <property name="names-ordered" type="array">
+        <value type="string" value="discord"/>
+        <value type="string" value="insync"/>
+        <value type="string" value="variety"/>
+        <value type="string" value="telegramdesktop"/>
+        <value type="string" value="blueberry-tray.py"/>
+        <value type="string" value="flameshot"/>
+        <value type="string" value="pamac-tray"/>
+        <value type="string" value="networkmanager applet"/>
+        <value type="string" value="clipman"/>
+      </property>
     </property>
     <property name="plugin-7" type="string" value="whiskermenu"/>
     <property name="clipman" type="empty">
