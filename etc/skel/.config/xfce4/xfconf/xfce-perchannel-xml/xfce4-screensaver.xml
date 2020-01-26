@@ -6,7 +6,7 @@
     <property name="idle-activation" type="empty">
       <property name="delay" type="int" value="15"/>
     </property>
-    <property name="enabled" type="bool" value="true"/>
+    <property name="enabled" type="bool" value="false"/>
     <property name="fullscreen-inhibit" type="bool" value="true"/>
   </property>
   <property name="lock" type="empty">
