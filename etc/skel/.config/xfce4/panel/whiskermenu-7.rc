@@ -1,4 +1,4 @@
-favorites=arcolinux-hello.desktop,arcolinux-fast-track.desktop,exo-preferred-applications.desktop,exo-file-manager.desktop,exo-terminal-emulator.desktop,conkyzen.desktop
+favorites=arcolinux-welcome-app.desktop,arcolinux-hello.desktop,arcolinux-fast-track.desktop,firefox.desktop,exo-file-manager.desktop,exo-terminal-emulator.desktop,exo-preferred-applications.desktop,conkyzen.desktop
 recent=
 button-title=ArcoLinux\ \ \ \ 
 button-icon=start-here-arcolinux
@@ -21,8 +21,8 @@ position-commands-alternate=true
 position-categories-alternate=true
 stay-on-focus-out=false
 confirm-session-command=true
-menu-width=431
-menu-height=579
+menu-width=410
+menu-height=583
 menu-opacity=80
 command-settings=xfce4-settings-manager
 show-command-settings=true
