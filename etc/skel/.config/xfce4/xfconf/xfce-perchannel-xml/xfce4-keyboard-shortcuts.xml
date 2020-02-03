@@ -68,7 +68,6 @@
       <property name="&lt;Primary&gt;&lt;Alt&gt;a" type="string" value="xfce4-appfinder"/>
       <property name="&lt;Primary&gt;&lt;Alt&gt;v" type="string" value="vivaldi-stable"/>
       <property name="&lt;Primary&gt;&lt;Alt&gt;b" type="string" value="thunar"/>
-      <property name="&lt;Primary&gt;&lt;Alt&gt;w" type="string" value="atom"/>
       <property name="&lt;Primary&gt;&lt;Alt&gt;s" type="string" value="spotify"/>
       <property name="&lt;Primary&gt;&lt;Alt&gt;c" type="string" value="catfish"/>
       <property name="&lt;Primary&gt;&lt;Alt&gt;f" type="string" value="firefox"/>
@@ -95,6 +94,8 @@
       <property name="&lt;Primary&gt;&lt;Alt&gt;Page_Down" type="string" value="conky-rotate -p"/>
       <property name="F12" type="string" value="xfce4-terminal --drop-down"/>
       <property name="&lt;Super&gt;k" type="string" value="slimlock"/>
+      <property name="&lt;Primary&gt;&lt;Alt&gt;w" type="string" value="arcolinux-welcome-app"/>
+      <property name="&lt;Primary&gt;&lt;Alt&gt;e" type="string" value="arcolinux-tweak-tool"/>
     </property>
   </property>
   <property name="xfwm4" type="empty">
