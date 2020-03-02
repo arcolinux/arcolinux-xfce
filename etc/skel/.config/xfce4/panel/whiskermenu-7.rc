@@ -1,4 +1,4 @@
-favorites=arcolinux-welcome-app.desktop,arcolinux-hello.desktop,arcolinux-fast-track.desktop,firefox.desktop,exo-file-manager.desktop,exo-terminal-emulator.desktop,exo-preferred-applications.desktop,conkyzen.desktop
+favorites=arcolinux-welcome-app.desktop,arcolinux-tweak-tool.desktop,firefox.desktop,exo-file-manager.desktop,exo-terminal-emulator.desktop,exo-preferred-applications.desktop,conkyzen.desktop
 recent=
 button-title=ArcoLinux\ \ \ \ 
 button-icon=start-here-arcolinux
@@ -13,6 +13,7 @@ hover-switch-category=true
 category-show-name=true
 category-icon-size=2
 load-hierarchy=false
+view-as-icons=false
 recent-items-max=10
 favorites-in-recent=true
 display-recent-default=false
