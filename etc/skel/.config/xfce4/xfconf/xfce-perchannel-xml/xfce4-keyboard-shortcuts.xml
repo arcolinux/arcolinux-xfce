@@ -74,7 +74,6 @@
       <property name="&lt;Primary&gt;&lt;Alt&gt;g" type="string" value="chromium"/>
       <property name="&lt;Super&gt;x" type="string" value="xfce4-session-logout"/>
       <property name="&lt;Super&gt;e" type="string" value="geany"/>
-      <property name="&lt;Super&gt;Pause" type="string" value="xfce4-session-logout"/>
       <property name="XF86AudioPlay" type="string" value="playerctl play-pause"/>
       <property name="XF86AudioStop" type="string" value="playerctl pause"/>
       <property name="XF86AudioPrev" type="string" value="playerctl previous"/>
@@ -86,7 +85,6 @@
       <property name="&lt;Primary&gt;&lt;Alt&gt;r" type="string" value="rofi-theme-selector"/>
       <property name="&lt;Primary&gt;&lt;Shift&gt;Print" type="string" value="gnome-screenshot -i"/>
       <property name="&lt;Primary&gt;Print" type="string" value="xfce4-screenshooter"/>
-      <property name="&lt;Primary&gt;&lt;Alt&gt;Delete" type="string" value="xfce4-session-logout"/>
       <property name="&lt;Primary&gt;&lt;Alt&gt;p" type="string" value="pamac-manager"/>
       <property name="&lt;Super&gt;c" type="string" value="conky-toggle"/>
       <property name="&lt;Primary&gt;&lt;Alt&gt;Page_Up" type="string" value="conky-rotate -n"/>
