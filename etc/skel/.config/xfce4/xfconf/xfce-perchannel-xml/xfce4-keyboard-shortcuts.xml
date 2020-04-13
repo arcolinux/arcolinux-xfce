@@ -73,7 +73,6 @@
       <property name="&lt;Primary&gt;&lt;Alt&gt;f" type="string" value="firefox"/>
       <property name="&lt;Primary&gt;&lt;Alt&gt;g" type="string" value="chromium"/>
       <property name="&lt;Super&gt;x" type="string" value="xfce4-session-logout"/>
-      <property name="&lt;Super&gt;l" type="string" value="slimlock"/>
       <property name="&lt;Super&gt;e" type="string" value="geany"/>
       <property name="&lt;Super&gt;Pause" type="string" value="xfce4-session-logout"/>
       <property name="XF86AudioPlay" type="string" value="playerctl play-pause"/>
