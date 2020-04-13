@@ -1,6 +1,6 @@
 favorites=arcolinux-welcome-app.desktop,arcolinux-tweak-tool.desktop,firefox.desktop,exo-file-manager.desktop,exo-terminal-emulator.desktop,exo-preferred-applications.desktop,conkyzen.desktop
 recent=
-button-title=ArcoLinux\ \ \ \ 
+button-title=ArcoLinux\ \ \ \
 button-icon=start-here-arcolinux
 button-single-row=false
 show-button-title=true
@@ -27,7 +27,7 @@ menu-height=583
 menu-opacity=80
 command-settings=xfce4-settings-manager
 show-command-settings=true
-command-lockscreen=slimlock
+command-lockscreen=arcolinux-logout
 show-command-lockscreen=true
 command-switchuser=xfce4-session-logout -u
 show-command-switchuser=true
@@ -78,4 +78,3 @@ name=Open URI
 pattern=^(file|http|https):\\/\\/(.*)$
 command=exo-open \\0
 regex=true
-
