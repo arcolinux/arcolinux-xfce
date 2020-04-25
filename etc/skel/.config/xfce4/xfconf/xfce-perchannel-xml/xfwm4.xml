@@ -7,8 +7,6 @@
       <value type="string" value="2"/>
       <value type="string" value="3"/>
       <value type="string" value="4"/>
-      <value type="string" value="10"/>
-      <value type="string" value="10"/>
     </property>
     <property name="workspace_count" type="int" value="4"/>
     <property name="activate_action" type="string" value="bring"/>
