@@ -72,6 +72,7 @@
       </property>
       <property name="show-frame" type="bool" value="false"/>
       <property name="names-ordered" type="array">
+        <value type="string" value="zoom"/>
         <value type="string" value="simplescreenrecorder"/>
         <value type="string" value="task manager"/>
         <value type="string" value="vlc"/>
