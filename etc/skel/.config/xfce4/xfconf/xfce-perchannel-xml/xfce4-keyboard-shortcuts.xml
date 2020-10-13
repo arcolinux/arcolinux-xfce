@@ -21,7 +21,6 @@
       <property name="Print" type="empty"/>
     </property>
     <property name="custom" type="empty">
-      <property name="&lt;Alt&gt;F1" type="string" value=""/>
       <property name="&lt;Alt&gt;F2" type="string" value="gmrun">
         <property name="startup-notify" type="bool" value="false"/>
       </property>
@@ -94,6 +93,7 @@
       <property name="&lt;Primary&gt;&lt;Alt&gt;l" type="string" value="arcolinux-logout"/>
       <property name="&lt;Primary&gt;&lt;Alt&gt;w" type="string" value="arcolinux-welcome-app"/>
       <property name="&lt;Primary&gt;&lt;Alt&gt;e" type="string" value="arcolinux-tweak-tool"/>
+      <property name="&lt;Alt&gt;F1" type="string" value="xfce4-popup-whiskermenu"/>
     </property>
   </property>
   <property name="xfwm4" type="empty">
