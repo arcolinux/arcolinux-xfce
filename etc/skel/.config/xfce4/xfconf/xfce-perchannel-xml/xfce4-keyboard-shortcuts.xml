@@ -17,8 +17,18 @@
       <property name="&lt;Super&gt;p" type="empty"/>
       <property name="&lt;Primary&gt;Escape" type="empty"/>
       <property name="XF86WWW" type="empty"/>
+      <property name="HomePage" type="empty"/>
       <property name="XF86Mail" type="empty"/>
       <property name="Print" type="empty"/>
+      <property name="&lt;Alt&gt;Print" type="empty"/>
+      <property name="&lt;Shift&gt;Print" type="empty"/>
+      <property name="&lt;Super&gt;e" type="empty"/>
+      <property name="&lt;Primary&gt;&lt;Alt&gt;f" type="empty"/>
+      <property name="&lt;Primary&gt;&lt;Alt&gt;Escape" type="empty"/>
+      <property name="&lt;Primary&gt;&lt;Shift&gt;Escape" type="empty"/>
+      <property name="&lt;Super&gt;r" type="empty">
+        <property name="startup-notify" type="empty"/>
+      </property>
     </property>
     <property name="custom" type="empty">
       <property name="&lt;Alt&gt;F2" type="string" value="gmrun">
@@ -39,7 +49,6 @@
       <property name="&lt;Alt&gt;Left" type="string" value="variety -p"/>
       <property name="&lt;Alt&gt;Up" type="string" value="variety --toggle-pause"/>
       <property name="&lt;Alt&gt;Down" type="string" value="variety --resume"/>
-      <property name="&lt;Primary&gt;&lt;Shift&gt;Escape" type="string" value="xfce4-taskmanager"/>
       <property name="Print" type="string" value="xfce4-screenshooter -f"/>
       <property name="&lt;Alt&gt;F3" type="string" value="xfce4-appfinder"/>
       <property name="&lt;Shift&gt;&lt;Super&gt;d" type="string" value="dmenu_run -i -nb &apos;#191919&apos; -nf &apos;#fea63c&apos; -sb &apos;#fea63c&apos; -sf &apos;#191919&apos; -fn &apos;NotoMonoRegular:bold:pixelsize=14&apos;"/>
@@ -63,7 +72,6 @@
       <property name="&lt;Super&gt;F8" type="string" value="thunar"/>
       <property name="&lt;Super&gt;F9" type="string" value="evolution"/>
       <property name="&lt;Super&gt;F10" type="string" value="spotify"/>
-      <property name="&lt;Primary&gt;&lt;Alt&gt;m" type="string" value="xfce4-settings-manager"/>
       <property name="&lt;Primary&gt;&lt;Alt&gt;a" type="string" value="xfce4-appfinder"/>
       <property name="&lt;Primary&gt;&lt;Alt&gt;v" type="string" value="vivaldi-stable"/>
       <property name="&lt;Primary&gt;&lt;Alt&gt;b" type="string" value="thunar"/>
@@ -94,6 +102,8 @@
       <property name="&lt;Primary&gt;&lt;Alt&gt;w" type="string" value="arcolinux-welcome-app"/>
       <property name="&lt;Primary&gt;&lt;Alt&gt;e" type="string" value="arcolinux-tweak-tool"/>
       <property name="&lt;Alt&gt;F1" type="string" value="xfce4-popup-whiskermenu"/>
+      <property name="&lt;Primary&gt;&lt;Shift&gt;Escape" type="string" value="xfce4-taskmanager"/>
+      <property name="&lt;Primary&gt;&lt;Alt&gt;m" type="string" value="xfce4-settings-manager"/>
     </property>
   </property>
   <property name="xfwm4" type="empty">
@@ -150,6 +160,14 @@
       <property name="&lt;Primary&gt;F10" type="empty"/>
       <property name="&lt;Primary&gt;F11" type="empty"/>
       <property name="&lt;Primary&gt;F12" type="empty"/>
+      <property name="&lt;Super&gt;KP_Left" type="empty"/>
+      <property name="&lt;Super&gt;KP_Right" type="empty"/>
+      <property name="&lt;Super&gt;KP_Up" type="empty"/>
+      <property name="&lt;Super&gt;KP_Down" type="empty"/>
+      <property name="&lt;Super&gt;KP_Page_Up" type="empty"/>
+      <property name="&lt;Super&gt;KP_Home" type="empty"/>
+      <property name="&lt;Super&gt;KP_End" type="empty"/>
+      <property name="&lt;Super&gt;KP_Next" type="empty"/>
     </property>
     <property name="custom" type="empty">
       <property name="Up" type="string" value="up_key"/>
