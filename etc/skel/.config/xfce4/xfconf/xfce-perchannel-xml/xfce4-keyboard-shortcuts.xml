@@ -31,30 +31,39 @@
       </property>
     </property>
     <property name="custom" type="empty">
-      <property name="&lt;Alt&gt;F2" type="string" value="gmrun">
-        <property name="startup-notify" type="bool" value="false"/>
+      <property name="&lt;Alt&gt;F2" type="string" value="xfce4-appfinder --collapsed">
+        <property name="startup-notify" type="bool" value="true"/>
       </property>
-      <property name="XF86Mail" type="string" value="exo-open --launch MailReader"/>
-      <property name="XF86Display" type="string" value="xfce4-display-settings --minimal"/>
+      <property name="&lt;Super&gt;r" type="string" value="rofi-theme-selector">
+        <property name="startup-notify" type="bool" value="true"/>
+      </property>
+      <property name="&lt;Alt&gt;F3" type="string" value="xfce4-appfinder">
+        <property name="startup-notify" type="bool" value="true"/>
+      </property>
       <property name="XF86WWW" type="string" value="exo-open --launch WebBrowser"/>
-      <property name="&lt;Super&gt;p" type="string" value="xfce4-display-settings --minimal"/>
-      <property name="override" type="bool" value="true"/>
-      <property name="&lt;Primary&gt;&lt;Alt&gt;t" type="string" value="exo-open --launch TerminalEmulator"/>
-      <property name="Pause" type="string" value="xfce4-screenshooter"/>
-      <property name="&lt;Alt&gt;n" type="string" value="variety -n"/>
-      <property name="&lt;Alt&gt;p" type="string" value="variety -p"/>
-      <property name="&lt;Alt&gt;t" type="string" value="variety -t"/>
-      <property name="&lt;Alt&gt;f" type="string" value="variety -f"/>
-      <property name="&lt;Alt&gt;Right" type="string" value="variety -n"/>
-      <property name="&lt;Alt&gt;Left" type="string" value="variety -p"/>
-      <property name="&lt;Alt&gt;Up" type="string" value="variety --toggle-pause"/>
-      <property name="&lt;Alt&gt;Down" type="string" value="variety --resume"/>
-      <property name="Print" type="string" value="xfce4-screenshooter -f"/>
-      <property name="&lt;Alt&gt;F3" type="string" value="xfce4-appfinder"/>
-      <property name="&lt;Shift&gt;&lt;Super&gt;d" type="string" value="dmenu_run -i -nb &apos;#191919&apos; -nf &apos;#fea63c&apos; -sb &apos;#fea63c&apos; -sf &apos;#191919&apos; -fn &apos;NotoMonoRegular:bold:pixelsize=14&apos;"/>
-      <property name="&lt;Super&gt;f" type="string" value="exo-open --launch FileManager"/>
-      <property name="&lt;Super&gt;t" type="string" value="urxvt"/>
       <property name="&lt;Super&gt;w" type="string" value="exo-open --launch WebBrowser"/>
+      <property name="XF86Mail" type="string" value="exo-open --launch MailReader"/>
+      <property name="HomePage" type="string" value="exo-open --launch WebBrowser"/>
+      <property name="&lt;Primary&gt;&lt;Alt&gt;t" type="string" value="exo-open --launch TerminalEmulator"/>
+      <property name="&lt;Super&gt;f" type="string" value="exo-open --launch FileManager"/>
+      <property name="&lt;Primary&gt;Escape" type="string" value="xfdesktop --menu"/>
+      <property name="&lt;Primary&gt;&lt;Alt&gt;Delete" type="string" value="xfce4-session-logout"/>
+      <property name="&lt;Primary&gt;&lt;Alt&gt;f" type="string" value="firefox"/>
+      <property name="&lt;Primary&gt;&lt;Alt&gt;l" type="string" value="arcolinux-logout"/>
+      <property name="&lt;Alt&gt;F1" type="string" value="xfce4-popup-whiskermenu"/>
+      <property name="&lt;Super&gt;p" type="string" value="xfce4-display-settings --minimal"/>
+      <property name="&lt;Primary&gt;&lt;Shift&gt;Escape" type="string" value="xfce4-taskmanager"/>
+      <property name="&lt;Super&gt;e" type="string" value="geany"/>
+      <property name="&lt;Primary&gt;&lt;Alt&gt;Escape" type="string" value="xkill"/>
+      <property name="XF86Display" type="string" value="xfce4-display-settings --minimal"/>
+      <property name="override" type="bool" value="true"/>
+      <property name="&lt;Primary&gt;&lt;Alt&gt;w" type="string" value="arcolinux-welcome-app"/>
+      <property name="&lt;Primary&gt;&lt;Alt&gt;m" type="string" value="xfce4-settings-manager"/>
+      <property name="&lt;Primary&gt;&lt;Shift&gt;Print" type="string" value="xfce4-screenshooter -r"/>
+      <property name="Print" type="string" value="xfce4-screenshooter -f"/>
+      <property name="&lt;Primary&gt;Print" type="string" value="xfce4-screenshooter"/>
+      <property name="&lt;Shift&gt;&lt;Super&gt;d" type="string" value="dmenu_run -i -nb &apos;#191919&apos; -nf &apos;#fea63c&apos; -sb &apos;#fea63c&apos; -sf &apos;#191919&apos; -fn &apos;NotoMonoRegular:bold:pixelsize=14&apos;"/>
+      <property name="&lt;Super&gt;t" type="string" value="urxvt"/>
       <property name="&lt;Super&gt;m" type="string" value="pragha"/>
       <property name="&lt;Super&gt;h" type="string" value="urxvt -T &apos;htop task manager&apos; -e htop"/>
       <property name="&lt;Super&gt;v" type="string" value="pavucontrol"/>
@@ -77,10 +86,8 @@
       <property name="&lt;Primary&gt;&lt;Alt&gt;b" type="string" value="thunar"/>
       <property name="&lt;Primary&gt;&lt;Alt&gt;s" type="string" value="spotify"/>
       <property name="&lt;Primary&gt;&lt;Alt&gt;c" type="string" value="catfish"/>
-      <property name="&lt;Primary&gt;&lt;Alt&gt;f" type="string" value="firefox"/>
       <property name="&lt;Primary&gt;&lt;Alt&gt;g" type="string" value="chromium"/>
       <property name="&lt;Super&gt;x" type="string" value="arcolinux-logout"/>
-      <property name="&lt;Super&gt;e" type="string" value="geany"/>
       <property name="XF86AudioPlay" type="string" value="playerctl play-pause"/>
       <property name="XF86AudioStop" type="string" value="playerctl pause"/>
       <property name="XF86AudioPrev" type="string" value="playerctl previous"/>
@@ -88,23 +95,26 @@
       <property name="&lt;Primary&gt;&lt;Alt&gt;Return" type="string" value="exo-open --launch TerminalEmulator"/>
       <property name="&lt;Super&gt;F12" type="string" value="rofi -show run"/>
       <property name="&lt;Super&gt;F11" type="string" value="rofi -show run -fullscreen"/>
-      <property name="&lt;Super&gt;r" type="string" value="rofi-theme-selector"/>
       <property name="&lt;Primary&gt;&lt;Alt&gt;r" type="string" value="rofi-theme-selector"/>
-      <property name="&lt;Primary&gt;&lt;Shift&gt;Print" type="string" value="gnome-screenshot -i"/>
-      <property name="&lt;Primary&gt;Print" type="string" value="xfce4-screenshooter"/>
       <property name="&lt;Primary&gt;&lt;Alt&gt;p" type="string" value="pamac-manager"/>
       <property name="&lt;Super&gt;c" type="string" value="conky-toggle"/>
       <property name="&lt;Primary&gt;&lt;Alt&gt;Page_Up" type="string" value="conky-rotate -n"/>
       <property name="&lt;Primary&gt;&lt;Alt&gt;Page_Down" type="string" value="conky-rotate -p"/>
       <property name="F12" type="string" value="xfce4-terminal --drop-down"/>
       <property name="&lt;Primary&gt;&lt;Alt&gt;k" type="string" value="arcolinux-logout"/>
-      <property name="&lt;Primary&gt;&lt;Alt&gt;l" type="string" value="arcolinux-logout"/>
-      <property name="&lt;Primary&gt;&lt;Alt&gt;w" type="string" value="arcolinux-welcome-app"/>
       <property name="&lt;Primary&gt;&lt;Alt&gt;e" type="string" value="arcolinux-tweak-tool"/>
-      <property name="&lt;Alt&gt;F1" type="string" value="xfce4-popup-whiskermenu"/>
-      <property name="&lt;Primary&gt;&lt;Shift&gt;Escape" type="string" value="xfce4-taskmanager"/>
       <property name="&lt;Primary&gt;&lt;Alt&gt;n" type="string" value="xfce4-settings-manager"/>
-      <property name="&lt;Primary&gt;&lt;Alt&gt;m" type="string" value="xfce4-settings-manager"/>
+      <property name="&lt;Primary&gt;&lt;Alt&gt;comma" type="string" value="xfce4-settings-manager"/>
+      <property name="&lt;Primary&gt;&lt;Alt&gt;z" type="string" value="arcolinux-welcome-app"/>
+      <property name="&lt;Primary&gt;&lt;Alt&gt;KP_Enter" type="string" value="exo-open --launch TerminalEmulator"/>
+      <property name="&lt;Alt&gt;n" type="string" value="variety -n"/>
+      <property name="&lt;Alt&gt;p" type="string" value="variety -p"/>
+      <property name="&lt;Alt&gt;t" type="string" value="variety -t"/>
+      <property name="&lt;Alt&gt;f" type="string" value="variety -f"/>
+      <property name="&lt;Alt&gt;Right" type="string" value="variety -n"/>
+      <property name="&lt;Alt&gt;Left" type="string" value="variety -p"/>
+      <property name="&lt;Alt&gt;Up" type="string" value="variety --toggle-pause"/>
+      <property name="&lt;Alt&gt;Down" type="string" value="variety --resume"/>
     </property>
   </property>
   <property name="xfwm4" type="empty">
