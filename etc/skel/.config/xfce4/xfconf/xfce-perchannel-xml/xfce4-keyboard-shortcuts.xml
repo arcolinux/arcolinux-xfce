@@ -115,6 +115,7 @@
       <property name="&lt;Alt&gt;Left" type="string" value="variety -p"/>
       <property name="&lt;Alt&gt;Up" type="string" value="variety --toggle-pause"/>
       <property name="&lt;Alt&gt;Down" type="string" value="variety --resume"/>
+      <property name="Super_L" type="string" value="xfce4-popup-whiskermenu"/>
     </property>
   </property>
   <property name="xfwm4" type="empty">
