@@ -81,7 +81,7 @@
 	<icon>cs-startup-programs</icon>
 	<name>Run</name>
 	<unique-id>1526630606202525-4</unique-id>
-	<command>termite -e %f</command>
+	<command>urxvt -e %f</command>
 	<description></description>
 	<patterns>*</patterns>
 	<other-files/>
