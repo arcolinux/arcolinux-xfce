@@ -116,6 +116,7 @@
       <property name="&lt;Super&gt;F12" type="string" value="rofi -show drun -fullscreen"/>
       <property name="&lt;Super&gt;F11" type="string" value="rofi -show drun"/>
       <property name="&lt;Super&gt;space" type="string" value="dmenu_run -i -nb &apos;#191919&apos; -nf &apos;#fea63c&apos; -sb &apos;#fea63c&apos; -sf &apos;#191919&apos; -fn &apos;NotoMonoRegular:bold:pixelsize=14&apos;"/>
+      <property name="&lt;Primary&gt;&lt;Super&gt;Alt_L" type="string" value="flameshot gui"/>
     </property>
   </property>
   <property name="xfwm4" type="empty">
