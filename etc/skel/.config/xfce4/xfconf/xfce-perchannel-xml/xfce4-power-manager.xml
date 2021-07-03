@@ -20,9 +20,9 @@
     <property name="critical-power-action" type="uint" value="3"/>
     <property name="lock-screen-suspend-hibernate" type="bool" value="false"/>
     <property name="brightness-on-battery" type="uint" value="9"/>
-    <property name="blank-on-battery" type="int" value="30"/>
-    <property name="dpms-on-battery-sleep" type="uint" value="0"/>
-    <property name="dpms-on-battery-off" type="uint" value="0"/>
+    <property name="blank-on-battery" type="int" value="15"/>
+    <property name="dpms-on-battery-sleep" type="uint" value="30"/>
+    <property name="dpms-on-battery-off" type="uint" value="45"/>
     <property name="brightness-level-on-battery" type="uint" value="50"/>
     <property name="brightness-level-on-ac" type="uint" value="100"/>
   </property>
