@@ -23,6 +23,7 @@
       <value type="string" value="pasystray"/>
       <value type="string" value="pragha"/>
       <value type="string" value="Spotify"/>
+      <value type="string" value="System Config Printer Notification"/>
       <value type="string" value="Terminal"/>
       <value type="string" value="Thunar"/>
       <value type="string" value="Transmission"/>
@@ -39,7 +40,6 @@
     </property>
     <property name="muted_applications" type="array">
       <value type="string" value="ca.desrt.dconf-editor"/>
-      <value type="string" value="notify-send"/>
     </property>
   </property>
   <property name="notify-location" type="uint" value="2"/>
