@@ -39,7 +39,6 @@
     </property>
     <property name="muted_applications" type="array">
       <value type="string" value="ca.desrt.dconf-editor"/>
-      <value type="string" value="notify-send"/>
     </property>
   </property>
   <property name="notify-location" type="uint" value="2"/>
