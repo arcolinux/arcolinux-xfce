@@ -98,7 +98,7 @@
       <property name="&lt;Primary&gt;&lt;Alt&gt;Page_Down" type="string" value="conky-rotate -p"/>
       <property name="F12" type="string" value="xfce4-terminal --drop-down"/>
       <property name="&lt;Primary&gt;&lt;Alt&gt;k" type="string" value="arcolinux-logout"/>
-      <property name="&lt;Primary&gt;&lt;Alt&gt;e" type="string" value="arcolinux-tweak-tool"/>
+      <property name="&lt;Primary&gt;&lt;Alt&gt;e" type="string" value="archlinux-tweak-tool"/>
       <property name="&lt;Primary&gt;&lt;Alt&gt;n" type="string" value="xfce4-settings-manager"/>
       <property name="&lt;Primary&gt;&lt;Alt&gt;comma" type="string" value="xfce4-settings-manager"/>
       <property name="&lt;Primary&gt;&lt;Alt&gt;z" type="string" value="arcolinux-welcome-app"/>
