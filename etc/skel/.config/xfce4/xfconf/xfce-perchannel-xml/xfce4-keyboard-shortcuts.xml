@@ -116,6 +116,7 @@
       <property name="&lt;Super&gt;F12" type="string" value="rofi -show drun"/>
       <property name="&lt;Super&gt;F11" type="string" value="rofi -show drun -theme-str &apos;window {width: 100%;height: 100%;}&apos;"/>
       <property name="&lt;Primary&gt;&lt;Super&gt;Print" type="string" value="flameshot gui"/>
+      <property name="&lt;Primary&gt;&lt;Alt&gt;h" type="string" value="arcolinux-app-glade"/>
     </property>
   </property>
   <property name="xfwm4" type="empty">
