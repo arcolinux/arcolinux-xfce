@@ -62,7 +62,7 @@
       <property name="&lt;Primary&gt;Print" type="string" value="xfce4-screenshooter"/>
       <property name="&lt;Shift&gt;&lt;Super&gt;d" type="string" value="dmenu_run -i -nb &apos;#191919&apos; -nf &apos;#fea63c&apos; -sb &apos;#fea63c&apos; -sf &apos;#191919&apos; -fn &apos;NotoMonoRegular:bold:pixelsize=14&apos;"/>
       <property name="&lt;Super&gt;t" type="string" value="urxvt"/>
-      <property name="&lt;Super&gt;m" type="string" value="pragha"/>
+      <property name="&lt;Super&gt;m" type="string" value="lollypop"/>
       <property name="&lt;Super&gt;h" type="string" value="urxvt -T &apos;htop task manager&apos; -e htop"/>
       <property name="&lt;Super&gt;v" type="string" value="pavucontrol"/>
       <property name="&lt;Primary&gt;&lt;Alt&gt;u" type="string" value="pavucontrol"/>
@@ -77,7 +77,7 @@
       <property name="&lt;Super&gt;F6" type="string" value="vlc"/>
       <property name="&lt;Super&gt;F7" type="string" value="virtualbox"/>
       <property name="&lt;Super&gt;F8" type="string" value="thunar"/>
-      <property name="&lt;Super&gt;F9" type="string" value="evolution"/>
+      <property name="&lt;Super&gt;F9" type="string" value="lollypop"/>
       <property name="&lt;Super&gt;F10" type="string" value="spotify"/>
       <property name="&lt;Primary&gt;&lt;Alt&gt;a" type="string" value="xfce4-appfinder"/>
       <property name="&lt;Primary&gt;&lt;Alt&gt;v" type="string" value="vivaldi-stable"/>
